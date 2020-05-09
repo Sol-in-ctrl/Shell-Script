@@ -8,7 +8,7 @@ sudo pacman -Syyu
 
 
 
-
+#Output final
 printf "Arch Linux, onde 30 minutos atrás é considerado estável\n"
 
 
